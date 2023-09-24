@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Necklace",
+        "description": "A beautiful necklace that adds elegance to any outfit. Crafted with exquisite details and fine materials, this necklace is perfect for special occasions or everyday wear.",
+        "price": 19.99,
+        "image": "https://thumbs.dreamstime.com/z/silver-onyx-bead-necklace-beautiful-chain-link-black-beads-40097301.jpg?w=576"
+    },
+    {
+        "id": 2,
+        "name": "Sofa",
+        "description": "A comfortable and stylish sofa for your living room. This sofa features high-quality upholstery and a modern design, making it a perfect addition to your home.",
+        "price": 24.99,
+        "image": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80"
+    },
+    {
+        "id": 3,
+        "name": "Car",
+        "description": "Experience the thrill of driving with our latest car model. With advanced features, safety technologies, and a powerful engine, this car offers an unmatched driving experience.",
+        "price": 34.99,
+        "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Wristwatch",
+        "description": "An elegant wristwatch that combines style and functionality. This timepiece is perfect for any occasion and ensures you're always on time in style.",
+        "price": 14.99,
+        "image": "https://images.unsplash.com/photo-1610395219791-21b0353e43cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
+    },
+    {
+        "id": 5,
+        "name": "Television",
+        "description": "Upgrade your home entertainment with our high-definition television. Enjoy crystal-clear images and immersive sound with this state-of-the-art TV.",
+        "price": 29.99,
+        "image": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80"
+    },
+    {
+        "id": 6,
+        "name": "Headphones",
+        "description": "Immerse yourself in music with these premium headphones. They deliver rich, high-quality sound and feature comfortable cushioning for long listening sessions.",
+        "price": 39.99,
+        "image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1376&q=80"
+    },
+    {
+        "id": 7,
+        "name": "Laptop",
+        "description": "Boost your productivity with our sleek and powerful laptop. With fast performance and a sleek design, this laptop is your ideal companion for work and play.",
+        "price": 44.99,
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+    },
+    {
+        "id": 8,
+        "name": "Tablet",
+        "description": "Stay connected on the go with our lightweight tablet. Whether you're browsing the web, watching videos, or working on documents, this tablet has you covered.",
+        "price": 21.99,
+        "image": "https://images.unsplash.com/photo-1623126908029-58cb08a2b272?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "id": 9,
+        "name": "Refrigerator",
+        "description": "Keep your food fresh and organized with our spacious refrigerator. It's designed with advanced cooling technology to ensure your groceries stay fresh longer.",
+        "price": 31.99,
+        "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1452&q=80"
+    },
+    {
+        "id": 10,
+        "name": "Dress",
+        "description": "Elevate your style with this stunning dress. Designed for elegance and comfort, it's perfect for special occasions and making a fashion statement.",
+        "price": 17.99,
+        "image": "https://images.unsplash.com/photo-1623609163859-ca93c959b98a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1372&q=80"
+    }
+    
+]
