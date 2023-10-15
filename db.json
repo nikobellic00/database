@@ -1,43 +1,45 @@
-[
-    {
+{
+    "products": [
+      {
         "id": 1,
         "name": "Necklace",
         "description": "A beautiful necklace that adds elegance to any outfit. Crafted with exquisite details and fine materials, this necklace is perfect for special occasions or everyday wear.",
         "price": 19.99,
         "image": "https://thumbs.dreamstime.com/z/silver-onyx-bead-necklace-beautiful-chain-link-black-beads-40097301.jpg?w=576",
-          "rating":5
-    },
-    {
+        "rating": 5
+      },
+      {
         "id": 2,
         "name": "Sofa",
         "description": "A comfortable and stylish sofa for your living room. This sofa features high-quality upholstery and a modern design, making it a perfect addition to your home.",
         "price": 24.99,
         "image": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80",
-        "rating":3
-    },
-    {
+        "rating": 3
+      },
+      {
         "id": 3,
         "name": "Car",
         "description": "Experience the thrill of driving with our latest car model. With advanced features, safety technologies, and a powerful engine, this car offers an unmatched driving experience.",
         "price": 34.99,
         "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80",
-         "rating":2
-    },
-    {
+        "rating": 2
+      },
+      {
         "id": 4,
         "name": "Wristwatch",
         "description": "An elegant wristwatch that combines style and functionality. This timepiece is perfect for any occasion and ensures you're always on time in style.",
         "price": 14.99,
         "image": "https://images.unsplash.com/photo-1610395219791-21b0353e43cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
-        "rating":1
-    },
-    {
+        "rating": 1
+      },
+      {
         "id": 5,
         "name": "Television",
         "description": "Upgrade your home entertainment with our high-definition television. Enjoy crystal-clear images and immersive sound with this state-of-the-art TV.",
         "price": 29.99,
         "image": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1528&q=80",
-        "rating":2
-    }
- 
-]
+        "rating": 2
+      }
+    ]
+  }
+  
